@@ -5,7 +5,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * HankRegister：切换模板请重装插件！！！
  *
  * @package HankRegister
- * @author Hank_Yan
+ * @author Hank-Yan
  * @version 0.5.0
  * @link http://typecho.org
  */

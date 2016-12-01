@@ -3,7 +3,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 
 /**
  * Created by PhpStorm.
- * User: Hank_Yan
+ * User: Hank-Yan
  * Date: 2016/11/30
  * Time: 21:18
  */
